@@ -88,15 +88,7 @@ streamlit run app.py
 
 This application is deployed using Streamlit Community Cloud.
 
-Deployment process:
-
-Push the project to a GitHub repository
-
-Log in to Streamlit Community Cloud using GitHub
-
-Select the repository, branch, and main file (app.py)
-
-Click Deploy
+URL for Live App: https://fake-job-posting-detector.streamlit.app/
 
 ### Sample Inputs
 
